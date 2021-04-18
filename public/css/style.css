@@ -125,7 +125,7 @@ footer p{
 }
 
 .tempInformation{
-    width:50rem;
+    width:30rem;
     margin: auto;
     min-height: 20rem;
     background-color: #323544;
@@ -173,7 +173,7 @@ footer p{
 
 .main_layer .middle_layer p,
 .main_layer .middle_layer .fa {
-    font-size: 7rem;
+    font-size: 3rem;
     font-weight: 900;
 }
 
@@ -181,7 +181,7 @@ footer p{
     color: #009ad8;
 }
 sup{
-    font-size: 6rem;
+    font-size: 2rem;
     margin-top: -2rem;
 }
 
@@ -227,3 +227,4 @@ sup{
     background-color: #fff;
     
 }
+
